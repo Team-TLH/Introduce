@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="testGithub\" />
+    <Folder Include="wwwroot\test\" />
   </ItemGroup>
 
 </Project>
